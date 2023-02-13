@@ -17,10 +17,6 @@ header .logo-text {
       color: red;
   }
 
-header input[type="search"] {
-    border: none;
-}
-
 header ul hr {
     margin: 0;
 }
