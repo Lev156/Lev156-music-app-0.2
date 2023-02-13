@@ -1,0 +1,10 @@
+.albums .col-3{
+    margin: 0px 0px 10px 0px;
+}
+.albums .card:hover {
+    outline: 4px solid #ffdb4d;
+}
+
+.albums a {
+    color: #666666;
+}
